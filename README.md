@@ -1,7 +1,9 @@
 # DANGER!
-Program wont work in fullscreen OpenGL/Direct3D games
+1. Program wont work in fullscreen OpenGL/Direct3D games
+
+2. Crosshair file can be only .bmp type, if it isnt, app may works incorrectly
 # CrosshairChanger
-Insert key - show menu
+"Insert"/"Ins" key - show menu
 
 This app adds crosshair for any game
 
